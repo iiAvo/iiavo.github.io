@@ -1,0 +1,26 @@
+keywords = "music, avo, avolition, iiavolition"
+image = "logo.png"
+theme = "dark"
+primary_color = "#FFFFFF"
+text_align = "center"
+gtag_id = "G-33WB8LVHR6"
+
+
+[[sections]]
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Spotify"
+url = "https://open.spotify.com/artist/6f6Ib4dPpABT7RYDSSyXS0"
+[[sections.items]]
+title = "SoundCloud"
+url = "https://soundcloud.com/aavoo"
+[[sections.items]]
+title = "BandCamp"
+url = "https://iiavolition.bandcamp.com/"
+[[sections.items]]
+title = "YouTube"
+url = "https://www.youtube.com/@avolition"
+[[sections.items]]
+title = "TikTok"
+url = "https://www.tiktok.com/@atomicnumber18"
