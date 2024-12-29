@@ -10,11 +10,11 @@ gtag_id = "G-33WB8LVHR6"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "Spotify"
-url = "https://open.spotify.com/artist/6f6Ib4dPpABT7RYDSSyXS0"
-[[sections.items]]
 title = "SoundCloud"
 url = "https://soundcloud.com/aavoo"
+[[sections.items]]
+title = "Spotify"
+url = "https://open.spotify.com/artist/6f6Ib4dPpABT7RYDSSyXS0"
 [[sections.items]]
 title = "BandCamp"
 url = "https://iiavolition.bandcamp.com/"
